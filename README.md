@@ -1,4 +1,7 @@
-## Opt Out Options
+---
+title: Your Opting Out Options
+layout: post
+---
 
 | ![](/confused.png) | ![](/thoughtful.png)| ![](/surprised.png) | ![](/neutral.png) |
 | --- | --- | --- | --- |
