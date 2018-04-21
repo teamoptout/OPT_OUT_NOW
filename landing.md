@@ -12,4 +12,4 @@ In the mean time, there are some links here for further reading:
 ## [Opt-out e-health a 'fundamental breach of trust': Victorian regulator](https://www.zdnet.com/article/opt-out-e-health-a-fundamental-breach-of-trust-victorian-regulator/)
 ## [Why the Govt can't simply go opt-out for e-health](https://www.itnews.com.au/blogentry/why-the-govt-cant-simply-go-opt-out-for-e-health-403785)
 
-[THE OPT-OUT PROCESS](process)
+## [THE OPT-OUT PROCESS](process)
