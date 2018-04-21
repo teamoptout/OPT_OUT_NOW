@@ -14,4 +14,4 @@
 
 ## Even the most secure system can be exploited
 
-[RECENT HISTORY](recent) | [OPT OUT NOW](landing)
+## [RECENT HISTORY](recent) | [OPT OUT NOW](landing)
