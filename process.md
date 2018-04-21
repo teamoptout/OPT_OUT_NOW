@@ -11,4 +11,4 @@
 
 ## [ITnews: How to opt out of Australia's e-health record scheme](https://www.itnews.com.au/news/how-to-opt-out-of-australias-e-health-record-scheme-485021)
 
-##[OPT OUT NOW](landing)
+## [OPT OUT NOW](landing)
