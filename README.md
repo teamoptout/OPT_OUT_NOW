@@ -1,5 +1,5 @@
 # Your Opting Out Options
 
-| ![/context](/neutral.png) | ![recent](/confused.png)| ![landing](/surprised.png) |
+| ![](/neutral.png)| ![](/confused.png) | ![](/surprised.png) |
 | --- | --- | --- |
-| What is an eHealth record? | I want info on MyHealth | Tell me how to OPT OUT |
+| [What is an eHealth record?](/context) | [I want info on MyHealth](/history) | [Tell me how to OPT OUT](/landing) |
