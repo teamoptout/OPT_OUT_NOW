@@ -10,4 +10,4 @@
 
 ## These secondary purposes are ostensibly for researcch and analytics involving data mining the health records of every Australian.
 
-[RECENT HISTORY](recent) | [THE FACTS](facts)
+## [RECENT HISTORY](recent) | [THE FACTS](facts)
