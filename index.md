@@ -7,4 +7,5 @@
 |     |     |     |
 
 # [Your Options for Opting Out](why)
-![](timeline1.png)
+
+## The government's eHealth system - My Health Record - will be changed from opt-in to opt-out very soon. Here's what you need to know.
