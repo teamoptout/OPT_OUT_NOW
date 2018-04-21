@@ -1,4 +1,4 @@
-# title: Your Opting Out Options
+# Your Opting Out Options
 
 | ![](/confused.png) | ![](/thoughtful.png)| ![](/surprised.png) | ![](/neutral.png) |
 | --- | --- | --- | --- |
